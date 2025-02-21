@@ -68,7 +68,7 @@ h1 {
 }
 
 .card a {
-  color: #05fce8;
+  color: hsl(303, 98%, 50%);
   text-decoration: none;
   font-weight: bold;
 }
